@@ -4,19 +4,19 @@ The tool is to convert the videos to images in the folder.
 
 ## How to use it ?
 
-Download the repository.
+1. Download the repository.
 
 ```bash
 git clone https://github.com/willy541222/Convert-Video-to-Images.git
 ```
 
-Change the directory to the project folder.
+2. Change the directory to the project folder.
 
 ```bash
 cd Convert-Video-to-Images
 ```
 
-Type command below and change the path.
+3. Type command below and change the path.
 The `-p` param is requirement.
 
 ```bash
@@ -31,7 +31,7 @@ Other parameters are optional.
 | - s | Interval of saving frames.|30|
 | - o | The file path to save images.|./|
 
-For example
+* For example
 
 Save the image per 20 frame and the name of image start from 1.jpg save in the C:/images/ folder.
 
